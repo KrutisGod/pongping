@@ -7471,23 +7471,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\krutis\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\tomas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krutis\\Desktop\\prace\\pongping\\Project1\\Project1.csproj",
+      "projectUniqueName": "D:\\programovani\\pongping\\Project1\\Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "C:\\Users\\krutis\\Desktop\\prace\\pongping\\Project1\\Project1.csproj",
-      "packagesPath": "C:\\Users\\krutis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krutis\\Desktop\\prace\\pongping\\Project1\\obj\\",
+      "projectPath": "D:\\programovani\\pongping\\Project1\\Project1.csproj",
+      "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
+      "outputPath": "D:\\programovani\\pongping\\Project1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\krutis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7541,7 +7537,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

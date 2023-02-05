@@ -63,15 +63,11 @@ namespace PongKrutis
             _pozice.Y += _rychlost.Y;
             
 
-            if(_pozice.Y >= vyskaOkna - _prumer || _pozice.Y <= 0 + _prumer)
+            if(_pozice.Y >= vyskaOkna  || _pozice.Y <= 0 )
             {
                 _rychlost.Y *= -1;
                 
             
-            }
-            if(_pozice.X >= sirkaOkna - _prumer || _pozice.X <= 0 + _prumer)
-            {
-                _rychlost.X *= -1;
             }
         }
 
